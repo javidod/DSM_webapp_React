@@ -1,0 +1,25 @@
+.Login {
+    width: 25%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+}
+
+.Login label {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Login button {
+    margin: 10px;
+    padding: 10px;
+    font: inherit;
+    cursor: pointer;
+}
+
+.error{
+    color:rgb(202, 0, 0);
+}

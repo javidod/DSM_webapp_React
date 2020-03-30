@@ -1,0 +1,27 @@
+.Pedido {
+    width: 64%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    /*text-align: center;*/
+}
+
+
+.Pedido label {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.FormularioProducto{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.Pedido label {
+    display: block;
+    margin: 10px auto;
+    text-align: left;
+    font-weight: bold;
+}

@@ -1,0 +1,49 @@
+.Productos {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin: 20px auto;
+    border: 3px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+}
+
+.TodosProductos{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.NumeroProductos{
+    justify-content: right;
+    text-align: right;
+    padding-bottom: 5px;
+}
+
+.Total{
+    text-align: right;
+    width: 90%;
+    font-size: 1rem;
+}
+
+.TotalModal{
+    text-align: right;
+    width: 80%;
+
+}
+.numero{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    vertical-align: center;
+}
+
+.div{
+    display:inline-block;
+}
+
+.div2{
+    display:inline-block;
+    width:30px;
+}
